@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment11Title">Opcja 11</string>
+    <string name="fragment12Title">Opcja 12</string>
+    <string name="radioGroup1Option">Opcja 1</string>
+    <string name="radioGroup2Option">Opcja 2</string>
+</resources>
